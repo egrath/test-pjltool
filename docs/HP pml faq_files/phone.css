@@ -1,0 +1,47 @@
+body {
+    background-color: #ddd; /* Background color */
+    color: #222;            /* Foreground color used for text */
+    font-family: Helvetica; 
+    font-size: 14px;
+    margin: 0;              /* Amount of negative space around the outside of the body */
+    padding: 0;             /* Amount of negative space around the inside of the body */
+}
+
+#nearist textarea {
+    background-color: #ddd; /* Background color */
+    color: red;
+    }
+
+h1 {
+    margin: 0 auto;
+    padding: 0;
+    background-color: #ccc;
+    background-image: -webkit-gradient(linear, left top, left bottom, 
+                                       from(#ccc), to(#999));
+    border-color: #666;
+    border-style: solid;
+    border-width: 0 0 1px 0;
+    color: #222;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #fff;
+}
+
+img {
+    max-width: 100%;
+    }
+
+
+#adtopright {
+    display: none;
+}
+#upperright {
+   display: none;
+}
+#fb-root {
+   display: none;
+}
